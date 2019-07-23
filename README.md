@@ -1,6 +1,6 @@
 # Vue TodoList
 
-Un petit site simple de to do list
+Un petit site simple de "to do list"
 
 Installation
 ---
