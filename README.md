@@ -1,16 +1,11 @@
-# Vue Crash Course (TodoList)
+# Vue TodoList
 
-This is the code for [the crash course on YouTube](https://youtu.be/Wy9q22isx3U)
+Un petit site simple de to do list
 
-## Quick Start
-
-```bash
-# Install dependencies
+Installation
+---
+```
 npm install
 
-# Serve on localhost:8080
 npm run serve
-
-# Build for production
-npm run build
 ```
